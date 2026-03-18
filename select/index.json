@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "416",
+  "base_artist": "Shota Shimizu",
+  "createdAt": "2026-03-18T23:51:19.434415Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "416",
+      "artist": "Shota Shimizu",
+      "has_synced": true,
+      "path": "select/01_416_Shota_Shimizu.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Asal Kolaar 416",
+      "artist": "Asal Kolaar feat. SHIV PAUL",
+      "has_synced": false,
+      "path": "select/02_Asal_Kolaar_416_Asal_Kolaar_feat._SHIV_PAUL.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Asal Kolaar 416",
+      "artist": "Asal Kolaar, Shiv Paul",
+      "has_synced": false,
+      "path": "select/03_Asal_Kolaar_416_Asal_Kolaar,_Shiv_Paul.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "416/905 (T.O. Party Anthem)",
+      "artist": "Maestro feat. Latoya & Miranda",
+      "has_synced": false,
+      "path": "select/04_416_905_(T.O._Party_Anthem)_Maestro_feat._Latoya_&_Miranda.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "416",
+      "artist": "Shota Shimizu",
+      "has_synced": true,
+      "path": "select/05_416_Shota_Shimizu.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Asal Kolaar 416",
+      "artist": "Asal Kolaar",
+      "has_synced": false,
+      "path": "select/06_Asal_Kolaar_416_Asal_Kolaar.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Ten O'clock Rock ( Mit Chor ) ( Nh 23 416 ) 1957",
+      "artist": "Peter Kraus",
+      "has_synced": false,
+      "path": "select/07_Ten_O'clock_Rock_(_Mit_Chor_)_(_Nh_23_416_)_1957_Peter_Kraus.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Royal Station 416",
+      "artist": "Melissa Etheridge",
+      "has_synced": true,
+      "path": "select/08_Royal_Station_416_Melissa_Etheridge.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "416/905 (T.O. Party Anthem)",
+      "artist": "Maestro",
+      "has_synced": false,
+      "path": "select/09_416_905_(T.O._Party_Anthem)_Maestro.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "416 - Jezus Is Koning Over De Aarde",
+      "artist": "Opwekking",
+      "has_synced": true,
+      "path": "select/10_416_-_Jezus_Is_Koning_Over_De_Aarde_Opwekking.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Mia speranza adorata... Ah, non sai qual pena, KV.416",
+      "artist": "Christine Schäfer",
+      "has_synced": false,
+      "path": "select/11_Mia_speranza_adorata..._Ah,_non_sai_qual_pena,_KV.416_Christine_Schäfer.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "416",
+      "artist": "Silent Drive",
+      "has_synced": true,
+      "path": "select/12_416_Silent_Drive.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Mia speranza adorata... Ah, non sai qual pena, K.416",
+      "artist": "Christine Schäfer/Berliner Philharmoniker/Claudio Abbado",
+      "has_synced": false,
+      "path": "select/13_Mia_speranza_adorata..._Ah,_non_sai_qual_pena,_K.416_Christine_Schäfer_Berliner_Philharmoniker_Claudio_Abbado.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Mia speranza adorata... Ah, non sai qual pena, KV.416",
+      "artist": "Christine Schäfer/Berliner Philharmoniker/Claudio Abbado",
+      "has_synced": false,
+      "path": "select/14_Mia_speranza_adorata..._Ah,_non_sai_qual_pena,_KV.416_Christine_Schäfer_Berliner_Philharmoniker_Claudio_Abbado.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "416",
+      "artist": "清水 翔太",
+      "has_synced": false,
+      "path": "select/pl_01_416_清水_翔太.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "416",
+      "artist": "清水 翔太",
+      "has_synced": false,
+      "path": "select/pl_02_416_清水_翔太.txt"
+    }
+  ]
+}
