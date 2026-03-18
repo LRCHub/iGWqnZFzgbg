@@ -1,8 +1,8 @@
 {
   "version": 1,
   "base_track": "416",
-  "base_artist": "Shota Shimizu",
-  "createdAt": "2026-03-18T23:51:19.434415Z",
+  "base_artist": "清水　翔太",
+  "createdAt": "2026-03-18T23:51:21.657143Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -123,14 +123,6 @@
       "artist": "清水 翔太",
       "has_synced": false,
       "path": "select/pl_01_416_清水_翔太.txt"
-    },
-    {
-      "id": "petitlyrics_2",
-      "source": "petitlyrics",
-      "title": "416",
-      "artist": "清水 翔太",
-      "has_synced": false,
-      "path": "select/pl_02_416_清水_翔太.txt"
     }
   ]
 }
